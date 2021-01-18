@@ -1,6 +1,6 @@
 
-eL_Etiz.Website is a fun project that is expected to house a "store" of products for eL_Etiz
-foods and confectioneries.
+eL_Etiz.Website is a fun project that is expected to house a "store" of products
+for eL_Etiz foods and confectioneries.
 
 How does it work?
 Using a local database (loaded in as a .json file), the application is able to
@@ -14,6 +14,7 @@ next, run the following
 
 cd eL_Etiz.Website
 dotnet run
+
 The project will start to run with the .json database prebuilt into its wwwroot folder.
 
 Requirements
