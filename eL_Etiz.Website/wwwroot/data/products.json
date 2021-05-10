@@ -1,0 +1,122 @@
+[
+  {
+    "id": "cactus",
+    "maker": "@Ekomobong",
+    "img": "../images/Breakfast.jpg",
+    "url": "#",
+    "title": "Exotic Breakfast",
+    "description": "As the first meal to start your day, breakfasts shoulld be memorable! eL_Eti'z can help you achieve just the right amount of exotic."
+  },
+  {
+    "id": "dream-shoes",
+    "maker": "@Ekomobong",
+    "img": "../images/DreamShoes.jpg",
+    "url": "#",
+    "title": "Heel/Roped Sandals",
+    "description": "My perfect type of footwear"
+  },
+  {
+    "id": "fried",
+    "maker": "Carino",
+    "img": "../images/FriesWithEggSauce.jpg",
+    "url": "/",
+    "title": "Fried Potato/Plantain with Egg Sauce",
+    "description": "Still going with the perfect breakfast theme, this will surely get you going for your activities for the rest of the day"
+  },
+  {
+    "id": "hair",
+    "maker": "Etifit",
+    "img": "../images/Hair3.jpg",
+    "url": "/",
+    "title": "Wigs",
+    "description": "A sample of wigs: something that I am also very good at"
+  },
+  {
+    "id": "iced-vegs",
+    "maker": "different-sources",
+    "img": "../images/IcedVegetablesFruits.jpg",
+    "url": "/",
+    "title": "A bowl of creamy goodness",
+    "description": "This is bound to whet your palettes. A cool combination of nuts, fruits, and veggies dipped in ice cold creamy goodness"
+  },
+  {
+    "id": "nails",
+    "maker": "somedays",
+    "img": "../images/LongNails.jpg",
+    "url": "/",
+    "title": "Glassy polished nails",
+    "description": "Nails: an accessory that everybody should spend on"
+  },
+  {
+    "id": "cupcake",
+    "maker": "Cara-Mia",
+    "img": "../images/MercyBirthdayCupcakes.jpg",
+    "url": "/",
+    "title": "Cupped Delicacies",
+    "description": "Our cupcakes mean more than a quick bite at snacks. They can be used to spice up your favorite and formal gatherings"
+  },
+  {
+    "id": "cake",
+    "maker": "kevwe",
+    "img": "../images/MfrekemfonBirthdayCake.jpg",
+    "url": "/",
+    "title": "Birthday cake",
+    "description": "The most important feature of birthday parties"
+  },
+  {
+    "id": "moi-moi",
+    "maker": "caramel",
+    "img": "../images/WatermarkedMoimoi.jpg",
+    "url": "/",
+    "title": "Moimoi Redefined",
+    "description": "The spark that ignited my food genius"
+  },
+  {
+    "id": "soup-okro",
+    "maker": "eti",
+    "img": "../images/OkroKponmoShrimps.jpg",
+    "url": "/",
+    "title": "Okro with Kponmo and Shrimps",
+    "description": "One of the ways okro soup can be made"
+  },
+  {
+    "id": "fried-rice",
+    "maker": "anon",
+    "img": "../images/PackedFriedRice.jpg",
+    "url": "/",
+    "title": "Fried Rice with Chicken and Salad",
+    "description": "Always a delicacy, but we have improved its taste and appearance"
+  },
+  {
+    "id": "summer-intern",
+    "maker": "elZero",
+    "img": "../images/SummerInternSister.jpg",
+    "url": "/",
+    "title": "Summer Intern",
+    "description": "She came to help for a few days, and it was fun having her around"
+  },
+  {
+    "id": "indomie",
+    "maker": "lockdown-breakfast",
+    "img": "../images/VegetableNoodles.jpg",
+    "url": "/",
+    "title": "Vegetable Noodles",
+    "description": "Noodles don't have to be as bland as we have come to expect it. There are ways to make it more than just a quick meal."
+  },
+  {
+    "id": "afang",
+    "maker": "eti",
+    "img": "../images/WatermarkedAfang.jpg",
+    "url": "/",
+    "title": "Afang",
+    "description": "Traditionally the favorite of many, but we have made it definitely better."
+  },
+  {
+    "id": "egusi",
+    "maker": "melon",
+    "img": "../images/WatermarkedEgusi.jpg",
+    "url": "/",
+    "title": "Egusi Soup",
+    "description": "I have gotten better at this, because it is HIS favorite meal. This makes him very happy"
+  }
+]
